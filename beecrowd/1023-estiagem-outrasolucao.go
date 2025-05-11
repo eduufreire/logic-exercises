@@ -3,7 +3,7 @@ package main
 import "fmt"
 
 // solução usada com base
-// https://judge.beecrowd.com/pt/runs/code/44954134
+// https://github.com/xTecna/solucoes-da-beecrowd/blob/main/problemas/estruturas-e-bibliotecas/1023/README.md
 // o programador usou um método onde ele usa o indice do vetor para conseguir ordenar o consumo em ordem crescente
 // para evitar mais um for de ordenação
 // utiliza a media retirada de consumo/morades, onde é gerado um valor inteiro e é usado como indice, colocando os moradores como valor
